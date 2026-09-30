@@ -1,1 +1,1 @@
-# Customer-Segmentation
+# Customer-Churn-Prediction
